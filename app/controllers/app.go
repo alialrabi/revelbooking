@@ -6,8 +6,8 @@ import (
 	"github.com/revel/revel"
 
 	"database/sql"
-	"github.com/revel/examples/booking/app/models"
-	"github.com/revel/examples/booking/app/routes"
+	"revelbooking/app/models"
+	"revelbooking/app/routes"
 	"github.com/revel/modules/orm/gorp/app/controllers"
 )
 

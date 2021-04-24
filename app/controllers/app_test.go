@@ -1,7 +1,7 @@
 package controllers_test
 
 import (
-	"github.com/revel/examples/booking/app/tmp/run"
+	"revelbooking/app/tmp/run"
 	"testing"
 	"github.com/revel/modules/server-engine/gohttptest/testsuite"
 )
